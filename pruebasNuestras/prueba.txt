@@ -1,0 +1,6 @@
+iniciar 4;
+escribir 0 primer mensaje;
+escribir 1 segundo mensaje;
+escribir 2 tercer mensaje;
+leer 0;
+finalizar;

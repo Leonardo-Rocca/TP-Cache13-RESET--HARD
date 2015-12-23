@@ -1,0 +1,6 @@
+iniciar 10;
+entrada-salida 50;
+leer 6;
+escribir 0 "E-S";
+entrada-salida 10;
+finalizar;

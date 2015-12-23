@@ -1,0 +1,9 @@
+iniciar 5;
+escribir 4 hoy ya nada se parece a vos;
+escribir 1 ni aquellas noches llenas de amor;
+escribir 0 lo que hiciste fue traicion;
+entrada-salida 5;
+escribir 1 del infierno, mi amor;
+leer 4;
+entrada-salida 2;
+finalizar;

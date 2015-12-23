@@ -1,0 +1,10 @@
+iniciar 5;
+escribir 0 hola wachin;
+leer 0;
+escribir 4 vamo lo pibe;
+leer 4;
+escribir 1 este se va a borrar;
+leer 1;
+escribir 1 si se borro estamo piola;
+leer 1;
+finalizar;

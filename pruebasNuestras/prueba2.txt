@@ -1,0 +1,14 @@
+iniciar 8;
+escribir 0 proceso2 mensaje 1;
+escribir 7 proceso2 mensaje 2;
+escribir 5 proceso2 mensaje 3;
+escribir 4 proceso2 mensaje 4;
+escribir 1 proceso2 mensaje 5;
+escribir 6 proceso2 mensaje 6;
+escribir 4 proceso2 mensaje 7;
+escribir 2 proceso2 mensaje 8;
+leer 2;
+leer 4;
+leer 6;
+escribir 2 remplazado;
+finalizar;
